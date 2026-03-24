@@ -1,0 +1,11 @@
+# Nest
+npx @nestjs/cli new track-visitor --package-manager npm --skip-git
+
+# Run the dev serve
+npm run start:dev
+
+# Generate Module
+npx @nest/cli generate module profile
+
+# Generate Controller
+npx @nest/cli generate controller profile
