@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# gather-back
+Stay together, explore better. This app lets tourist groups share live locations, track distance between members, and chat in real time—making it easy to find, reunite, and move as a team during any trip.
+>>>>>>> accd4a007b6784489dc0e611a6be67b42acc9750
